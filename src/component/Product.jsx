@@ -18,6 +18,7 @@ const Product = () => {
         setData(result.data);
         setDataCopy(result.data)
         setCategories(result1.data);
+        
 
     }
     useEffect(()=>{
